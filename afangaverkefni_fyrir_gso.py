@@ -5,3 +5,8 @@
 skra=input("skýra skrá : ")
 skra=skra+".txt"
 minskra=open(skra,'w+')
+texti=input("skráðu texta :")
+minskra.write(texti)
+
+minskra=exit
+
