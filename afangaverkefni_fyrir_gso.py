@@ -17,3 +17,6 @@ texti2=input("sláðu inn texta :")
 minskra.write(texti2)
 texti3=input("sláðu inn texta :")
 minskra.write(texti3)
+allirtextar=texti1,texti2,texti3
+minskra=exit
+print(allirtextar)
