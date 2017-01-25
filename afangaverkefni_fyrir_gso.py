@@ -10,3 +10,10 @@ minskra.write(texti)
 
 minskra=exit
 
+minskra=open(skra,'w+')
+texti1=input("sláðu inn texta :")
+minskra.write(texti1)
+texti2=input("sláðu inn texta :")
+minskra.write(texti2)
+texti3=input("sláðu inn texta :")
+minskra.write(texti3)
